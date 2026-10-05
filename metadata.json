@@ -1,0 +1,6 @@
+{
+  "name": "Edaran Biaya Komite",
+  "description": "Sistem Pembuatan Surat Edaran Komite dan Mail Merge untuk SMP Negeri 7 Sentani",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
